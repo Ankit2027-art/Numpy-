@@ -85,6 +85,6 @@
 # One dimension is 1 → ✅
 # Dimension missing → ✅
 # Different dimension → ❌
-# ```
+
 
 # **Broadcasting = Automatically adjusting compatible array shapes for operations.**
